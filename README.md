@@ -35,6 +35,22 @@ Open the terminal in VSCode and navigate to the 'frontend' directory using the c
 In the terminal run the command: ‘ npm -i ’
 Run the application using expo with the command ‘ npm start ’
 
+## Screenshots
+Here are some screenshots of the project:
+
+![Screenshot 1](https://github.com/NadavC3/Diburnik/blob/main/login.png)
+![Screenshot 2](https://github.com/NadavC3/Diburnik/blob/main/Register.png)
+![Screenshot 3](https://github.com/NadavC3/Diburnik/blob/main/Profiles.png)
+![Screenshot 4](https://github.com/NadavC3/Diburnik/blob/main/Add.png)
+![Screenshot 5](https://github.com/NadavC3/Diburnik/blob/main/Edit.png)
+![Screenshot 6](https://github.com/NadavC3/Diburnik/blob/main/Boards.png)
+![Screenshot 7](https://github.com/NadavC3/Diburnik/blob/main/Words.jpg)
+![Screenshot 8](https://github.com/NadavC3/Diburnik/blob/main/Search.jpg)
+
+
+
+
+
 On your tablet device:
 Download and install Expo Go from your device's application store
                             
