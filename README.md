@@ -30,7 +30,7 @@ On your computer :
 VSCode - Install VSCode
 Node.js - Install Node.js
 
-Download the code: Fetch the code’s main branch from https://github.com/sharonSniti/FinalProject
+Download the code: Fetch the code’s main branch from https://github.com/NadavC3/Diburnik
 Open the terminal in VSCode and navigate to the 'frontend' directory using the command: ' cd \Diburnik\frontend '
 In the terminal run the command: ‘ npm -i ’
 Run the application using expo with the command ‘ npm start ’
